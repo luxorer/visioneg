@@ -2,13 +2,13 @@
 	<service>
 		<engineName>WordPress</engineName>
 		<engineLink>https://wordpress.org/</engineLink>
-		<homePageLink>http://alfaeg.test</homePageLink>
+		<homePageLink>https://visioneg.tk</homePageLink>
 		<apis>
-			<api name="WordPress" blogID="1" preferred="true" apiLink="http://alfaeg.test/xmlrpc.php" />
-			<api name="Movable Type" blogID="1" preferred="false" apiLink="http://alfaeg.test/xmlrpc.php" />
-			<api name="MetaWeblog" blogID="1" preferred="false" apiLink="http://alfaeg.test/xmlrpc.php" />
-			<api name="Blogger" blogID="1" preferred="false" apiLink="http://alfaeg.test/xmlrpc.php" />
-				<api name="WP-API" blogID="1" preferred="false" apiLink="http://alfaeg.test/wp-json/" />
+			<api name="WordPress" blogID="1" preferred="true" apiLink="https://visioneg.tk/xmlrpc.php" />
+			<api name="Movable Type" blogID="1" preferred="false" apiLink="https://visioneg.tk/xmlrpc.php" />
+			<api name="MetaWeblog" blogID="1" preferred="false" apiLink="https://visioneg.tk/xmlrpc.php" />
+			<api name="Blogger" blogID="1" preferred="false" apiLink="https://visioneg.tk/xmlrpc.php" />
+				<api name="WP-API" blogID="1" preferred="false" apiLink="https://visioneg.tk/wp-json/" />
 			</apis>
 	</service>
 </rsd>
